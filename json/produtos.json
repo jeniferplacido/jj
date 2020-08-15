@@ -1,0 +1,34 @@
+{
+    "produtos": [
+      {
+        "codigo": 1,
+        "nome": "FUTURO BURGER 230g",
+        "preco": 17.30
+      },
+      {
+        "codigo": 2,
+        "nome": "HAMBÚRGUER DE SOJA SEARA GOURMET 310G",
+        "preco": 14.50
+      },
+      {
+        "codigo": 3,
+        "nome": "HABÚRGUER VEGANO DE LEGUMES MR. VEGGY",
+        "preco": 16
+      },
+      {
+        "codigo": 4,
+        "nome": "Aveia em Flocos 1kg",
+        "preco": 4.60
+      },
+      {
+        "codigo": 5,
+        "nome": "Grão de Bico 1kg",
+        "preco": 14.60
+      },
+      {
+        "codigo": 6,
+        "nome": "Semente de Linhaça Dourada 1kg",
+        "preco": 19.90
+      }
+    ]
+  }

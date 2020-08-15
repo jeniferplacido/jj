@@ -1,0 +1,72 @@
+body, ul, li, p {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-size: 1.2rem;
+}
+
+a {
+text-decoration: none;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
+
+.header{
+    height: 50px;
+    width: 100%;
+    background-color: brown;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0;
+}
+
+.redessociais {
+    display: flex;
+}
+.redessociais li {
+    margin-left: 10px;
+}
+.redessociais li a{
+    padding: 10px;
+    display: block;
+}
+
+.header__2{
+    background-color: cadetblue;
+    height: 40px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    padding: 0 10px 0 10px;
+    align-items: center;
+}
+
+.header__2 li a{
+    color: white;
+    text-transform: uppercase;
+    padding-left: 20px;
+}
+
+/* PRODUTOS */
+
+.produtos__home {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.produtos__home > div{
+    flex: 1 1 200px ;
+    margin: 10px;
+    border-style: solid;
+    border-radius: 10px 10px;
+    border-color: gray;
+    
+}
